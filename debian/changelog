@@ -1,3 +1,9 @@
+libxcrypt (1:4.4.36-5deepin2) unstable; urgency=medium
+
+  * feat: add sm3 algorithm support.
+
+ -- Liang Bo <liangbo@deepin.org>  Thu, 22 Jan 2025 14:54:10 +0800
+
 libxcrypt (1:4.4.36-5deepin1) unstable; urgency=medium
 
   * feat: add sw64 support.
